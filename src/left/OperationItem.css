@@ -1,0 +1,7 @@
+.items li {
+    font-size: 16px;
+    padding-left: 20px;
+}
+.items li:hover {
+    background-color: deepskyblue;
+}
