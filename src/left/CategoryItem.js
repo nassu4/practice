@@ -15,7 +15,7 @@ class CategoryItem extends Component {
         return(
             <li key={this.props.order}>
                 <div onClick={this.handleClick}>{arr[this.props.order]}</div>
-                <OperationItem order={this.props.order} show={this.state.flag} />
+                <OperationItem order={this.props.order} show={this.state.flag} changePage={this.props.changePage} />
             </li>
         );
     }

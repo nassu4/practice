@@ -9,6 +9,12 @@ const arr = [
 
 class OperationItem extends Component {
 
+    constructor(props) {
+        super(props);
+        this.handleClick = this.handleClick.bind(this);
+    }
+
+
     render() {
         return (
             <div className="items"
@@ -16,12 +22,19 @@ class OperationItem extends Component {
                 <ul>
                     {
                         arr[this.props.order].map((item, index) =>
-                            <li key={index}>{item}</li>
+                            <li key={this.props.order * 10 + index}
+                                order = {this.props.order * 10 + index}
+                                onClick={this.handleClick} >
+                                {item}</li>
                         )
                     }
                 </ul>
             </div>
         );
+    }
+
+    handleClick(e) {
+        this.props.changePage(e.currentTarget.getAttribute("order"));
     }
 
 }

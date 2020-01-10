@@ -9,8 +9,8 @@ class Left extends Component {
         return (
             <div id="nav">
                 <ul>
-                    <CategoryItem order="0" />
-                    <CategoryItem order="1" />
+                    <CategoryItem order="0" changePage={this.props.changePage} />
+                    <CategoryItem order="1" changePage={this.props.changePage} />
                     <li key="2">
                         <a href="localhost:3000">用户中心</a>
                     </li>
