@@ -5,43 +5,45 @@
     border-spacing: 0;
 }
 
-tr {
+#form tr {
     display: block;
     margin: 40px 0;
 }
 
-input {
+#form input {
     width: 500px;
     height: 20px;
+    border: #000000 1px solid;
 }
 
-.t-left {
+#form .t-left {
     width: 100px;
     text-align: right;
 }
-.t-right {
+#form .t-right {
     width: 510px;
     text-align: left;
 }
 
-#remark {
+#form #remark {
     width: 500px;
     height: 100px;
+    border: #000000 1px solid;
     resize: none;
 }
 
-#certificate {
+#form #certificate {
     width: 500px;
     height: 100px;
     border: #000000 1px dashed;
 }
 
-.bottom {
+#form .bottom {
     width: 500px;
     text-align: center;
 }
 
-#back {
+#form #back {
     width: 80px;
     height: 40px;
     background-color: #FFFFFF;
@@ -49,7 +51,7 @@ input {
     margin-right: 20px;
 }
 
-#submit {
+#form #submit {
     width: 80px;
     height: 40px;
     background-color: deepskyblue;

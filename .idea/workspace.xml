@@ -1,7 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0aeca05-83c7-412c-821f-de5359bec374" name="Default Changelist" comment="" />
+    <list default="true" id="c0aeca05-83c7-412c-821f-de5359bec374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Authorize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Authorize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Bottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/MyForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/MyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/authorize/Top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/Builder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/BuilderRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/detail/kpsq-firsttrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/left/Left.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/builder/left/OperationItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/Constructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/ConstructorRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jprz/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jprz/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jprz/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jprz/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jpzr/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jpzr/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jpzr/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jpzr/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/jpzr/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/application/kpsq/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-reject-receivemoney/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-accept/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-givemoney/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jprz-wait-receivemoney/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/jpzr-wait-sign/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-already-sign/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-firsttrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-reject-secondtrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-firsttrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-secondtrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/detail/kpsq-wait-sign/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor/left/CategoryItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/Factor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/FactorRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-reject-accept/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-accept/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/jprz-wait-receivemoney/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/detail/kpsq-secondtrial/Step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/left/CategoryItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/left/Left.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factor/left/OperationItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/timg.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login/Identity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Bottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Complete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Complete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/MyForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/MyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/MyStep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/MyStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/complete/Top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Bottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/MyForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/MyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/MyStep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/MyStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/register/register/Top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/Authorize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/Authorize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/Bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/Bottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/MyForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/authorize/MyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/Bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/Bottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/IncInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/IncInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/MyForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userCenter/incInfo/MyForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/left/CategoryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/builder/left/CategoryItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/left/Left.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/left/Left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/left/Left.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/left/Left.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/left/OperationItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/left/OperationItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/left/OperationItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/left/OperationItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/right/Form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/application/jprz/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Head.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/right/Head.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Head.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/application/kpsq/Head.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Right.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/right/Right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/right/Right.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructor/application/kpsq/Right.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/Top.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/Top.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +194,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -20,11 +203,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W9KC2bDWmt5erOSlZH1aVcnF1U" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/undefinedchain-view-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/userCenter/authorize" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,15 +219,22 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\32846\WebstormProjects\practice\src\top" />
-      <recent name="C:\Users\32846\WebstormProjects\practice\src\right" />
-      <recent name="C:\Users\32846\WebstormProjects\practice\src\left" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\register\register" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\public" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\image" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\factor\detail" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\32846\WebstormProjects\practice\public" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\userCenter\authorize" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\userCenter\incInfo" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\authorize" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\register\authorize" />
+      <recent name="C:\Users\32846\WebstormProjects\practice\src\register" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,7 +274,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578556239481</updated>
-      <workItem from="1578556241595" duration="40890000" />
+      <workItem from="1578556241595" duration="42467000" />
+      <workItem from="1578716564095" duration="3932000" />
+      <workItem from="1578722601946" duration="1231000" />
+      <workItem from="1578831835555" duration="4584000" />
+      <workItem from="1578837119983" duration="548000" />
+      <workItem from="1579174702646" duration="25038000" />
+      <workItem from="1580630936968" duration="3827000" />
+      <workItem from="1580795434233" duration="2744000" />
+      <workItem from="1580802417234" duration="20226000" />
+      <workItem from="1580887309173" duration="77273000" />
+      <workItem from="1581081948169" duration="4944000" />
     </task>
     <servers />
   </component>
@@ -94,7 +296,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

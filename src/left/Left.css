@@ -3,7 +3,7 @@
     color: #FFFFFF;
     background-color: #102239;
     width: 150px;
-    height: 100%;
+    height: calc(100% - 67px);
     float: left;
     border-top: #f6fef2 1px solid;
     padding: 30px 20px;
@@ -15,7 +15,7 @@ li {
     cursor: pointer;
 }
 
-a {
+#nav a {
     text-decoration: none;
     color: #FFFFFF;
 }
